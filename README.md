@@ -1,6 +1,6 @@
 ## Hello, I’m Vinicius de Paula
 
-<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinniciusgomes/)](https://www.linkedin.com/in/vinniciusgomes/) --!>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusram2025/)](https://www.linkedin.com/in/viniciusram2025/)
 
 <!--
 **viniciusram2025/viniciusram2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
