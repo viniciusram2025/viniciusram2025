@@ -1,6 +1,5 @@
 ## Meu nome é Vinicius de Paula
-Um desenvolvedor iniciante moro no Rio de Janeiro, formado em Análise e Desenvolvimento de Sistemas e estou a pouco mais de 1 ano estudando a stack MERN.
-No momento estou desenvolvendo meu portifólio, para buscar uma colocação no mercado.
+Sou desenvolvedor moro no Rio de Janeiro, formado em Análise e Desenvolvimento de Sistemas e estou  me especializando em Javascript/Typescript.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusram2025&show_icons=true&theme=highcontrast) -->
 
